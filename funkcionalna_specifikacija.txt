@@ -1,0 +1,11 @@
+Sažeta funkcionalna specifikacija za aplikaciju
+
+Cilj projekta je stvoriti edukativnu aplikaciju za učenike. Aplikacija pokriva određena znanja iz kemije, većinski poznavanje formule i strukture poznatijih i važnijih spojeva, kao i temeljna znanja s područja organske kemije. 
+
+Poželjno je da aplikacija ima user login i do neke mjere prati napredak osobe koja ju koristi.
+
+Nakon prijave, aplikacija treba prikazati nekoliko kartica:
+1. Important chemical compounds - kartica s vizualnim prikazom strukture najpoznatijih i najvažnijih kemijskih spojeva: spojevi popularni pod drugačijim, laičkim nazivima(modra galica, soda bikarbona i dr.), važne anorganske kiseline i molekule uključene u opće poznate kemijske procese (stvaranje šećera prilikom fotosinteze i slično)
+2. Quizzes - kvizovi kojima učenici provjeravaju znanje; bilježe napredak učenika
+3. Profile
+4. idk 
