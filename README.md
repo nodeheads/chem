@@ -37,11 +37,10 @@ d3-molecule = https://github.com/arpitnarechania/d3-molecule
 ## Chemical compound
 - polustranica kemijskog spoja
 - informacije o kemijskom spoju
-    - 
     - url na wiki (dinamički)
         - restAPI sa informacijama kemijskih spojeva
         - web scrape 
-        -  
+        - ...
 - vizualni prikaz strukture kemijskih spojeva
 
 ## Chemical process
@@ -68,6 +67,3 @@ d3-molecule = https://github.com/arpitnarechania/d3-molecule
 - prikaz user podataka
 - mijenjanje user podataka
 - statiske kvizova
-
-
-
