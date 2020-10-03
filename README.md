@@ -20,14 +20,14 @@ d3-molecule = https://github.com/arpitnarechania/d3-molecule
 
 > Cilj - stvoriti edukativnu aplikaciju za učenik. Aplikacija pokriva određena znanja iz kemije, većinski poznavanje formule i strukture poznatijih i važnijih spojeva, kao i temeljna znanja s područja organske kemije.
 
-chemical compound = molecule  
+> chemical compound = molecule  
 
-kemijski spojevi popularni na laičkim nazivima:
-- modra galica
-- soda bikarbona..
+> kemijski spojevi popularni na laičkim nazivima:
+> - modra galica
+> - soda bikarbona..
 
-anorganske kiseline i molekule uključene u opće poznate kemijske procese
-- npr. stvaranje šećera prilikom fotosinteze
+> anorganske kiseline i molekule uključene u opće poznate kemijske procese
+> - npr. stvaranje šećera prilikom fotosinteze
 
 ## Chemical compound card
 - kartica s vizualnim prikazom strukture kemijskih spojeva
