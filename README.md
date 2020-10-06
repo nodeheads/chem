@@ -14,15 +14,15 @@
 > anorganske kiseline i molekule uključene u opće poznate kemijske procese
 > - npr. stvaranje šećera prilikom fotosinteze
 
-## ChemicalCard
+## ChemicalCard (Matej)
 - kartica s vizualnim prikazom strukture kemijskih spojeva
 - on hover animacija: prikaže podataka i zavrti molekulu
 - click na otvara `Chemical compound`
 
-## ChemicalPage
+## ChemicalPage (Uršula)
 - polustranica kemijskog spoja
 - informacije o kemijskom spoju
-    - url na wiki (dinamički)
+    - url na wiki (dinamički) (matej?)
         - restAPI sa informacijama kemijskih spojeva
         - web scrape 
         - ...
