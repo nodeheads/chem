@@ -1,21 +1,6 @@
 
 ![](resources/logo.png)
 
-Airtable - https://airtable.com/tblaQEA2frSeaxME3/viwvE9UUeOIOuSWPP?blocks=hide
-
-# Resursi
-**Data**:
-
-https://proteopedia.org/wiki/index.php/Atomic_coordinate_file
-
-**Visualization:**
-
-3d-force-graph = https://github.com/vasturiano/3d-force-graph
-
-3dmolecule (spominju se kemijski file formati) - http://3dmol.csb.pitt.edu/index.html 
-
-d3-molecule = https://github.com/arpitnarechania/d3-molecule
-
 # Funkcionalna specifikacija - 1. faza (frontend only)
 
 > Cilj - stvoriti edukativnu aplikaciju za učenik. Aplikacija pokriva određena znanja iz kemije, većinski poznavanje formule i strukture poznatijih i važnijih spojeva, kao i temeljna znanja s područja organske kemije.
@@ -29,12 +14,12 @@ d3-molecule = https://github.com/arpitnarechania/d3-molecule
 > anorganske kiseline i molekule uključene u opće poznate kemijske procese
 > - npr. stvaranje šećera prilikom fotosinteze
 
-## Chemical compound card
+## ChemicalCard
 - kartica s vizualnim prikazom strukture kemijskih spojeva
 - on hover animacija: prikaže podataka i zavrti molekulu
 - click na otvara `Chemical compound`
 
-## Chemical compound
+## ChemicalPage
 - polustranica kemijskog spoja
 - informacije o kemijskom spoju
     - url na wiki (dinamički)
@@ -43,10 +28,10 @@ d3-molecule = https://github.com/arpitnarechania/d3-molecule
         - ...
 - vizualni prikaz strukture kemijskih spojeva
 
-## Chemical process
+## ChemicalProcess
 - animacija `Chemical compound` komponenti
 
-## Quiz  
+## Quiz
 - bez backenda i baze
 - kvizovi kojima učenici provjeravaju znanje
 
